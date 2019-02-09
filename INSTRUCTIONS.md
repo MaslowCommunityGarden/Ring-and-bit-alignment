@@ -1,7 +1,4 @@
-Edit this file to add assembly instructions
+Two files are available:
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
-
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+1. basePlate.stl - 3D model in binary stl ready to load into your 3D print slicer like Cura.
+2. routerHolder.f3d - Fusion360 project for further modifications.
